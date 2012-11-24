@@ -1,0 +1,3 @@
+https://github.com/codebrew/backbone-rails
+backbone-railsのサンプルアプリ
+JSの実装方法とかを参考にしたい
